@@ -1,8 +1,8 @@
 # Data Skills 2 - R
-## Winter Quarter 2024
+## Fall Quarter 2024
 
 ## Homework 3
-## Due: February 22 before midnight on GitHub Classroom
+## Due: November 16 before midnight on GitHub Classroom
 
 Note that there is a lot of flexibility in how you approach these questions and what your final results will look like.  Being comfortable with that sort of assignment is an explicit course goal; real-world research is much more likely to come with open-ended assignments rather than explicit direction to start with X and accomplish exactly Y.  Use short comments (1-3 lines max) to explain any choices that you think need explaining.  Remember wherever possible to focus on "why" in your comments, and not "what". As usual, include a README file describing the code and output.
 
